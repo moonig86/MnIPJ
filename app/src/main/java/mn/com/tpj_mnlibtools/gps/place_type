@@ -1,0 +1,53 @@
+/** 현재 장소 검색 및 추가 시 지원되는 유형
+
+참조 : https://developers.google.com/places/web-service/supported_types?hl=ko
+
+accounting
+airport
+amusement_park
+aquarium
+art_gallery
+atm
+bakery
+bank
+bar
+beauty_salon
+bicycle_store
+book_store
+bowling_alley
+bus_station
+cafe
+campground
+car_dealer
+car_rental
+car_repair
+car_wash
+casino
+cemetery
+church
+city_hall
+clothing_store
+convenience_store
+courthouse
+dentist
+department_store
+doctor
+electrician
+electronics_store
+embassy
+establishment (지원 중단됨)
+finance (지원 중단됨)
+fire_station
+florist
+food (지원 중단됨)
+funeral_home
+furniture_store
+gas_station
+general_contractor (지원 중단됨)
+grocery_or_supermarket (지원 중단됨)
+gym
+hair_care
+hardware_store
+health (지원 중단됨)
+hindu_temple
+home_goods_store
